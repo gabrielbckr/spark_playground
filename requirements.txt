@@ -1,0 +1,5 @@
+pypandoc
+pyspark
+findspark
+jupyterlab
+nose
